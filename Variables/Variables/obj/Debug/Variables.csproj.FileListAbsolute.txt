@@ -1,0 +1,6 @@
+D:\code\DevEducation\Variables\Variables\bin\Debug\Variables.exe.config
+D:\code\DevEducation\Variables\Variables\bin\Debug\Variables.exe
+D:\code\DevEducation\Variables\Variables\bin\Debug\Variables.pdb
+D:\code\DevEducation\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+D:\code\DevEducation\Variables\Variables\obj\Debug\Variables.exe
+D:\code\DevEducation\Variables\Variables\obj\Debug\Variables.pdb

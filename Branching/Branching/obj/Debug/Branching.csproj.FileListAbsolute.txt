@@ -1,0 +1,6 @@
+D:\code\DevEducation\Branching\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+D:\code\DevEducation\Branching\Branching\bin\Debug\Branching.exe.config
+D:\code\DevEducation\Branching\Branching\bin\Debug\Branching.exe
+D:\code\DevEducation\Branching\Branching\bin\Debug\Branching.pdb
+D:\code\DevEducation\Branching\Branching\obj\Debug\Branching.exe
+D:\code\DevEducation\Branching\Branching\obj\Debug\Branching.pdb
