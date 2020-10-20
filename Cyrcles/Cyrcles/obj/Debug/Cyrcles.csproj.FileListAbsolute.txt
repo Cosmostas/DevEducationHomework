@@ -1,0 +1,6 @@
+D:\code\DevEducation\Cyrcles\Cyrcles\bin\Debug\Cyrcles.exe.config
+D:\code\DevEducation\Cyrcles\Cyrcles\bin\Debug\Cyrcles.exe
+D:\code\DevEducation\Cyrcles\Cyrcles\bin\Debug\Cyrcles.pdb
+D:\code\DevEducation\Cyrcles\Cyrcles\obj\Debug\Cyrcles.csprojAssemblyReference.cache
+D:\code\DevEducation\Cyrcles\Cyrcles\obj\Debug\Cyrcles.exe
+D:\code\DevEducation\Cyrcles\Cyrcles\obj\Debug\Cyrcles.pdb
