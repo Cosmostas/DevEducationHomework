@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{99A6CCB8-78B1-4358-A8E3-0AE5C288B2C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoubleArray/Program.cs">
+    <Files>
+      <File FileName="DoubleArray/Program.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoubleArray" expanded="True">
+            <Node name="DoubleArray" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DoubleArray PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

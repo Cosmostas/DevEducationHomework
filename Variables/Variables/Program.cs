@@ -60,41 +60,7 @@ namespace Variables
         }
         static void Main(string[] args)
         {
-            Console.Write("Choose task (if you want to quit enter 0): ");
-            while (true)
-            {
-                int decision = Convert.ToInt32(Console.ReadLine());
-                bool isDone = false;
-                switch (decision)
-                {
-                    case 0:
-                        isDone = true;
-                        break;
-                    case 1:
-                        doFirstTask();
-                        break;
-                    case 2:
-                        doSecondTask();
-                        break;
-                    case 3:
-                        doThirdTask();
-                        break;
-                    case 4:
-                        doFourthTask();
-                        break;
-                    case 5:
-                        doFifthTask();
-                        break;
-                    default:
-                        Console.WriteLine("Input incorrect, please repeat: ");
-                        break;
-                }
-                if (isDone)
-                {
-                   break;
-                }
-                Console.Write("Choose task (if you want to quit enter 0): ");
-            }  
+            Console.ReadKey();
         }
     }
 }

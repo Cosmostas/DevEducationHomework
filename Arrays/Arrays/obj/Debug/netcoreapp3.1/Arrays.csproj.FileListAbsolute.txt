@@ -1,0 +1,12 @@
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/Users/Stas/Documents/Code/DevEducationHomework/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache

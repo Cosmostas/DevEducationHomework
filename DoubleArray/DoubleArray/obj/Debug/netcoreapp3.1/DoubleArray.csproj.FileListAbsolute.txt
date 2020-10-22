@@ -1,0 +1,12 @@
+/Users/Stas/Projects/DoubleArray/DoubleArray/bin/Debug/netcoreapp3.1/DoubleArray.deps.json
+/Users/Stas/Projects/DoubleArray/DoubleArray/bin/Debug/netcoreapp3.1/DoubleArray.runtimeconfig.json
+/Users/Stas/Projects/DoubleArray/DoubleArray/bin/Debug/netcoreapp3.1/DoubleArray.runtimeconfig.dev.json
+/Users/Stas/Projects/DoubleArray/DoubleArray/bin/Debug/netcoreapp3.1/DoubleArray.dll
+/Users/Stas/Projects/DoubleArray/DoubleArray/bin/Debug/netcoreapp3.1/DoubleArray.pdb
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.csprojAssemblyReference.cache
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.AssemblyInfoInputs.cache
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.AssemblyInfo.cs
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.csproj.CoreCompileInputs.cache
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.dll
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.pdb
+/Users/Stas/Projects/DoubleArray/DoubleArray/obj/Debug/netcoreapp3.1/DoubleArray.genruntimeconfig.cache
